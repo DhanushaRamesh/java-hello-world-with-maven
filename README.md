@@ -1,5 +1,6 @@
 # Building Java Projects with Maven
 This guide walks you through using Maven to build a simple Java project.
+TEUdated file by Dhanusha - This project is tested to run in TC and Linux server
 
 ## What you’ll build
 You’ll create an application that provides the time of day and then build it with Maven.
